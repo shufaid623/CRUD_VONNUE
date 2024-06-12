@@ -8,13 +8,12 @@ FrontEnd:--(crud_vonnue_counter)
 2) Install a IDE preferably visualStudion from visualstudio.com
 3) Download or clone this project
 4) Navigate to the project repository downloaded and open terminal
-5) run the following code "npm install axios" for installing axios for getting response from backend
-6) Also install bootstrap "npm install bootstrap" for css.
+5) run the following code "npm install " for installing dependencies.
 7) Open the project in visualstudio using file->open folder. step 4&5 can be done on visualstudio terminal also which is in top dashboard( Keep the project path accordingly in terminal).
 8) in terminal run "npm run start" your project will be running in default port "localhost:3000"
 
 
-BackEnd:---(questionaire)
+BackEnd:---(crud_backend_vonnue)
 ---------
 1) Download and Install SpringToolSuite or ecclipse from spring.io
 2) Download JDK from oracle.com and install.
