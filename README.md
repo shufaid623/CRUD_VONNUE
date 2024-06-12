@@ -2,7 +2,7 @@ This is Basic crud Operation project with frontend in react.js and backend using
 Basic working of API are given in readme file for each project(front end , backend) inside folder
 
 
-FrontEnd:--(crud_vonnue_counter)
+FrontEnd:--(crud_vonnue_counter) -- react frontend component crud_vonnue_counter/src/Components/Crudsetter.jsx
 ------------
 1) Download node.js from nodejs.org based on your device specification and install in your device.(node -v in terminal to verify node installation)
 2) Install a IDE preferably visualStudion from visualstudio.com
