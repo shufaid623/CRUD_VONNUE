@@ -1,0 +1,9 @@
+created a basic springboot application using spring web dependency.
+
+DataStructure Used:- LIST,STACK
+
+Created "undo, Redo , submit ,delete" API's.
+
+While submitting value will be saved to a list and upon undo last value will be removed from list and pushed to stack.
+while redo value will be poped fromstack and added to list.
+On delete list will be deleted and new list will be assigned.
