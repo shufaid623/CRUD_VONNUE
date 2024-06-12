@@ -1,0 +1,5 @@
+Used Axios for connecting to backend
+
+used const [message,setMessage] = useState([]) to create list to accept value from api.
+
+list of items will be returned using setmessage. upon each method call (undo,redo,delete,submit) message will be updated correspondingly
